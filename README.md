@@ -1,6 +1,7 @@
 I'm a Polish<>English translator looking to gain experience with translating open source projects.
 
 Projects which I translated or took part in translating:
+---------------------------------------------------------
 | NAME | DESCRIPTION | SOURCE | LINK |
 | -------- | -------- | -------- | ---------- |
 | **Ambie** | White noise app for Windows/Xbox | [GitHub](https://github.com/jenius-apps/ambie) | [Website](https://ambieapp.com/)
