@@ -1,6 +1,6 @@
 I'm a Polish<>English translator looking to gain experience with translating open source projects.
 
-Projects which I translated or took part in translating:
+Projects to which I contributed translations:
 ---------------------------------------------------------
 | NAME | DESCRIPTION | SOURCE | LINK |
 | -------- | -------- | -------- | ---------- |
