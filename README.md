@@ -11,5 +11,5 @@ Projects to which I contributed translations:
 | **MyBrain** | Productivity app for Android | [GitHub](https://github.com/mhss1/MyBrain) | [F-Droid](https://f-droid.org/packages/com.mhss.app.mybrain/)
 | **PhotoEditor** | Photo editing app for Android | [GitHub](https://github.com/burhanrashid52/PhotoEditor) | [F-Droid](https://f-droid.org/en/packages/com.burhanrashid52.photoediting/)
 | **ReadYou** | RSS Reader for Android | [GitHub](https://github.com/Ashinch/ReadYou) | [F-Droid](https://f-droid.org/packages/me.ash.reader/)
-| **Sushi** | Personal finance managment app for Android | [GitHub](https://github.com/maciej-klupp/sushi) | [Play Store](https://play.google.com/store/apps/details?id=com.jerameeldelosreyes.sushi)
+| **Sushi** | Personal finance managment app for Android | [GitHub](https://github.com/jerameel/sushi) | [Play Store](https://play.google.com/store/apps/details?id=com.jerameeldelosreyes.sushi)
 | **TriviaYou** | Quiz app for Android | [GitHub](https://github.com/Bnyro/TriviaYou) | [F-Droid](https://f-droid.org/packages/com.bnyro.trivia/)
