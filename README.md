@@ -9,6 +9,7 @@ Projects to which I contributed translations:
 | **Energize** | Calorie tracking app for Android | [Codeberg](https://codeberg.org/epinez/Energize) | [F-Droid](https://f-droid.org/pl/packages/com.flasskamp.energize/)
 | **FastLyrics** | App which displays lyrics for Android |[GitHub](https://github.com/TecCheck/FastLyrics) | [F-Droid](https://f-droid.org/en/packages/io.github.teccheck.fastlyrics/)
 | **MyBrain** | Productivity app for Android | [GitHub](https://github.com/mhss1/MyBrain) | [F-Droid](https://f-droid.org/packages/com.mhss.app.mybrain/)
+| **PhotoEditor** | Photo editing app for Android | [GitHub](https://github.com/burhanrashid52/PhotoEditor) | [F-Droid](https://f-droid.org/en/packages/com.burhanrashid52.photoediting/)
 | **ReadYou** | RSS Reader for Android | [GitHub](https://github.com/Ashinch/ReadYou) | [F-Droid](https://f-droid.org/packages/me.ash.reader/)
 | **Sushi** | Personal finance managment app for Android | [GitHub](https://github.com/maciej-klupp/sushi) | [Play Store](https://play.google.com/store/apps/details?id=com.jerameeldelosreyes.sushi)
 | **TriviaYou** | Quiz app for Android | [GitHub](https://github.com/Bnyro/TriviaYou) | [F-Droid](https://f-droid.org/packages/com.bnyro.trivia/)
